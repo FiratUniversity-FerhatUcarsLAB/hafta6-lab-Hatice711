@@ -1,3 +1,11 @@
+/**
+* Ad Soyad : Hatice KIRMIZIGÜL
+* Öğrenci No : 250541102
+* Proje : Sinema Bileti Fiyatlandırma
+* Tarih : 25.11.2025
+*/
+
+
 import java.util.Scanner;
 
 public class SinemaBileti {
@@ -120,3 +128,4 @@ public class SinemaBileti {
         input.close();
     }
 }
+
